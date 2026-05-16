@@ -136,7 +136,7 @@ input {
   grid-template-columns: minmax(0, 1fr) minmax(360px, 0.78fr);
   gap: 34px;
   align-items: center;
-  min-height: calc(92svh - 70px);
+  min-height: calc(84svh - 70px);
   padding-block: clamp(32px, 5vw, 68px);
 }
 
@@ -194,6 +194,40 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
+}
+
+.hero-quicklinks {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  max-width: 780px;
+  margin-top: 18px;
+}
+
+.hero-quicklinks a {
+  display: grid;
+  gap: 8px;
+  min-height: 78px;
+  padding: 12px;
+  border: 1px solid var(--ink);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.82);
+  font-size: 0.92rem;
+  font-weight: 900;
+  line-height: 1.12;
+  text-decoration: none;
+}
+
+.hero-quicklinks a:hover,
+.hero-quicklinks a:focus-visible {
+  background: var(--lime);
+  outline: none;
+}
+
+.hero-quicklinks span {
+  color: var(--red);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
 }
 
 .button {
@@ -436,7 +470,7 @@ h3 {
 
 .portal-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 12px;
 }
 
@@ -453,6 +487,36 @@ h3 {
   overflow: hidden;
   text-decoration: none;
   transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+}
+
+.pillar-card {
+  border-width: 2px;
+  background:
+    linear-gradient(135deg, rgba(185, 255, 89, 0.32), transparent 38%),
+    linear-gradient(315deg, rgba(49, 199, 255, 0.18), transparent 42%),
+    var(--paper-strong);
+  box-shadow: 4px 4px 0 rgba(16, 18, 17, 0.16);
+}
+
+.pillar-card:nth-child(2) {
+  background:
+    linear-gradient(135deg, rgba(49, 199, 255, 0.26), transparent 40%),
+    linear-gradient(315deg, rgba(255, 200, 61, 0.2), transparent 44%),
+    var(--paper-strong);
+}
+
+.pillar-card:nth-child(3) {
+  background:
+    linear-gradient(135deg, rgba(255, 93, 77, 0.2), transparent 42%),
+    linear-gradient(315deg, rgba(185, 255, 89, 0.22), transparent 44%),
+    var(--paper-strong);
+}
+
+.pillar-card:nth-child(4) {
+  background:
+    linear-gradient(135deg, rgba(122, 98, 255, 0.18), transparent 42%),
+    linear-gradient(315deg, rgba(255, 200, 61, 0.26), transparent 44%),
+    var(--paper-strong);
 }
 
 .portal-card::after {
@@ -487,6 +551,45 @@ h3 {
   background:
     linear-gradient(135deg, rgba(185, 255, 89, 0.5), transparent 42%),
     var(--paper-strong);
+}
+
+.card-links {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-self: end;
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.card-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  padding: 8px 11px;
+  border: 1px solid var(--ink);
+  border-radius: var(--radius);
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 0.82rem;
+  font-weight: 900;
+  line-height: 1.1;
+  text-decoration: none;
+}
+
+.card-links a:nth-child(2) {
+  background: var(--lime);
+  color: var(--ink);
+}
+
+.card-links a:hover,
+.card-links a:focus-visible {
+  background: var(--yellow);
+  color: var(--ink);
+  outline: none;
 }
 
 .portal-card-soon {
@@ -748,6 +851,10 @@ h3 {
   .portal-grid,
   .signals-grid {
     grid-template-columns: 1fr;
+  }
+
+  .hero-quicklinks {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .card-feature {

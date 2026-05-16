@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Steven Matrix</title>
+  <desc id="desc">A bright portal map for MilanBusiness, LearnByDoingWithSteven, Steven Design Studio, and Steven On The Road.</desc>
+  <rect width="1200" height="630" fill="#fbfcf8"/>
+  <path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200M120 0v630M240 0v630M360 0v630M480 0v630M600 0v630M720 0v630M840 0v630M960 0v630M1080 0v630" stroke="#101211" stroke-width="2" opacity=".08"/>
+  <rect x="54" y="52" width="1092" height="526" rx="16" fill="#ffffff" stroke="#101211" stroke-width="6"/>
+  <circle cx="930" cy="158" r="68" fill="#b9ff59" stroke="#101211" stroke-width="5"/>
+  <circle cx="1016" cy="282" r="54" fill="#31c7ff" stroke="#101211" stroke-width="5"/>
+  <circle cx="884" cy="410" r="58" fill="#ffc83d" stroke="#101211" stroke-width="5"/>
+  <path d="M286 406c152-168 354-250 644-248M286 406c232-22 438-6 730-124M286 406c202 58 400 68 598 4" fill="none" stroke="#101211" stroke-width="5" stroke-linecap="round" opacity=".34"/>
+  <text x="98" y="147" fill="#ff5d4d" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="3">STEVEN MATRIX</text>
+  <text x="96" y="268" fill="#101211" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">Four websites.</text>
+  <text x="96" y="364" fill="#101211" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">One public graph.</text>
+  <text x="100" y="438" fill="#2d3430" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">MilanBusiness / LearnByDoingWithSteven / Design Studio / On The Road</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="24" fill="#101211">
+    <rect x="94" y="482" width="184" height="48" rx="8" fill="#b9ff59" stroke="#101211" stroke-width="3"/>
+    <text x="118" y="515">Milan</text>
+    <rect x="292" y="482" width="144" height="48" rx="8" fill="#31c7ff" stroke="#101211" stroke-width="3"/>
+    <text x="318" y="515">AI</text>
+    <rect x="450" y="482" width="176" height="48" rx="8" fill="#ffc83d" stroke="#101211" stroke-width="3"/>
+    <text x="476" y="515">Design</text>
+    <rect x="640" y="482" width="166" height="48" rx="8" fill="#ff5d4d" stroke="#101211" stroke-width="3"/>
+    <text x="666" y="515">Travel</text>
+  </g>
+  <text x="930" y="172" text-anchor="middle" fill="#101211" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">MB</text>
+  <text x="1016" y="294" text-anchor="middle" fill="#101211" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">AI</text>
+  <text x="884" y="422" text-anchor="middle" fill="#101211" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">DS</text>
+  <rect x="954" y="438" width="116" height="72" rx="12" fill="#7a62ff" stroke="#101211" stroke-width="5"/>
+  <text x="1012" y="485" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">ROAD</text>
+</svg>

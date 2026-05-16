@@ -37,11 +37,11 @@ if (canvas) {
   const ctx = canvas.getContext("2d");
   const nodes = [
     { label: "Steven", x: 0.5, y: 0.48, r: 31, color: "#101211" },
-    { label: "AI Lab", x: 0.23, y: 0.32, r: 22, color: "#b9ff59" },
-    { label: "Data Talk", x: 0.77, y: 0.34, r: 21, color: "#31c7ff" },
-    { label: "Milan Business", x: 0.31, y: 0.68, r: 20, color: "#ffc83d" },
-    { label: "Design Studio", x: 0.7, y: 0.67, r: 20, color: "#ff5d4d" },
-    { label: "On The Road", x: 0.5, y: 0.82, r: 18, color: "#7a62ff" }
+    { label: "MilanBusiness", x: 0.23, y: 0.32, r: 22, color: "#b9ff59" },
+    { label: "LearnByDoing", x: 0.77, y: 0.34, r: 21, color: "#31c7ff" },
+    { label: "Design Studio", x: 0.31, y: 0.68, r: 20, color: "#ffc83d" },
+    { label: "On The Road", x: 0.7, y: 0.67, r: 20, color: "#ff5d4d" },
+    { label: "Social Portals", x: 0.5, y: 0.65, r: 18, color: "#7a62ff" }
   ];
 
   function resizeCanvas() {

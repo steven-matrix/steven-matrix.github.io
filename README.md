@@ -1,6 +1,13 @@
 # Steven Matrix
 
-Static GitHub Pages portal for Steven Wang's websites, social media portals, podcasts, communities, and collaboration links.
+Static GitHub Pages portal for Steven Wang's four themed websites, social media portals, podcasts, communities, and collaboration links.
+
+## Highlighted pillars
+
+1. MilanBusiness | Exhibition Services: https://milanbusiness.github.io/
+2. LearnByDoingWithSteven | Business Talks, AI & Indie Development: https://learnbydoingwithsteven.github.io/
+3. Steven Design Studio | Invitations & Graphic Design: https://stevendesignstudio.github.io/
+4. Steven On The Road | Drone Photography & Travel: https://stevenontheroad-italy.github.io/
 
 ## Files
 

@@ -1,9 +1,12 @@
 Steven Matrix
 
 Creator: Steven Wang
-Role: AI builder, data science practitioner, podcast host, community operator, independent creator
+Role: AI builder, data science practitioner, service operator, podcast host, community operator, independent creator
 Base: Milan, Italy
 Canonical URL: https://steven-matrix.github.io/
-Flagship: https://learnbydoingwithsteven.github.io/
+Pillar 1: MilanBusiness | Exhibition Services - https://milanbusiness.github.io/
+Pillar 2: LearnByDoingWithSteven | Business Talks, AI & Indie Development - https://learnbydoingwithsteven.github.io/
+Pillar 3: Steven Design Studio | Invitations & Graphic Design - https://stevendesignstudio.github.io/
+Pillar 4: Steven On The Road | Drone Photography & Travel - https://stevenontheroad-italy.github.io/
 
 Built as a lightweight static GitHub Pages portal with visible entity text, structured data, sitemap, robots.txt, and an assistant-readable llms.txt.
