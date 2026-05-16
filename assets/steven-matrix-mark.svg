@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Steven Matrix mark</title>
+  <desc id="desc">SM monogram over a bright matrix grid.</desc>
+  <rect width="512" height="512" rx="72" fill="#101211"/>
+  <path d="M72 128h368M72 256h368M72 384h368M128 72v368M256 72v368M384 72v368" stroke="#fbfcf8" stroke-width="18" opacity=".22"/>
+  <circle cx="156" cy="156" r="42" fill="#b9ff59" stroke="#fbfcf8" stroke-width="12"/>
+  <circle cx="356" cy="168" r="38" fill="#31c7ff" stroke="#fbfcf8" stroke-width="12"/>
+  <circle cx="260" cy="350" r="44" fill="#ffc83d" stroke="#fbfcf8" stroke-width="12"/>
+  <path d="M160 156c56 74 116 138 200 12M160 156c38 112 60 150 100 194M356 168c-28 92-54 140-96 182" fill="none" stroke="#fbfcf8" stroke-width="16" stroke-linecap="round"/>
+  <text x="256" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="120" font-weight="900" fill="#fbfcf8">SM</text>
+</svg>

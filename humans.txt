@@ -1,0 +1,9 @@
+Steven Matrix
+
+Creator: Steven Wang
+Role: AI builder, data science practitioner, podcast host, community operator, independent creator
+Base: Milan, Italy
+Canonical URL: https://steven-matrix.github.io/
+Flagship: https://learnbydoingwithsteven.github.io/
+
+Built as a lightweight static GitHub Pages portal with visible entity text, structured data, sitemap, robots.txt, and an assistant-readable llms.txt.
