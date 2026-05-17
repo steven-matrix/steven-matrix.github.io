@@ -262,6 +262,19 @@ h3 {
   color: var(--ink);
 }
 
+.button-stacked {
+  flex-direction: column;
+  gap: 3px;
+  min-height: 56px;
+}
+
+.button-stacked small {
+  color: rgba(16, 18, 17, 0.72);
+  font-size: 0.68rem;
+  font-weight: 900;
+  line-height: 1;
+}
+
 .entity-strip {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
