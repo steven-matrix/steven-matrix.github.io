@@ -19,3 +19,8 @@ Static GitHub Pages portal for Steven Wang's four themed websites, social media 
 ## SEO notes
 
 The current canonical URL is `https://steven-matrix.github.io/`. If the site is deployed under another GitHub Pages path or a custom domain, update the canonical URL, sitemap URL, robots sitemap line, Open Graph URL, and JSON-LD URLs.
+
+## License
+
+All rights reserved. This repository and all its contents are proprietary and strictly confidential. No license is granted for reuse, modification, or distribution. See [LICENSE.md](file:///f:/steven-matrix/steven-matrix.github.io/LICENSE.md) for full terms.
+
